@@ -1,0 +1,4 @@
+1,Lucas,Piedra,Piedra,Empate
+2,lucas,Papel,Papel,Empate
+3,lucas,Tijera,Piedra,Derrota
+4,,Papel,Papel,Empate
