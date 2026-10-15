@@ -14,14 +14,10 @@ Versión: v1.0.0
 
 CONTROL DE VERSIONES 
 
-Versión
-Fecha
-Autor
-Descripción
-v1.0.0 
-14/10/2026 
-Lucas Benitez
-Versión inicial del manual técnico del programador para la Actividad 7. 
+Versión v1.0.0 
+Fecha 14/10/2026 
+Autor Lucas Benitez
+Descripción Versión inicial del manual del usuario para la Actividad 7. 
 
 
 
