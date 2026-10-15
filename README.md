@@ -38,12 +38,12 @@ piedrapapelotijera/
 ├── README.md                       <-- Portada del proyecto con integrantes
 ├── docs/                           <-- Entregables y documentación
 │   ├── InformeEEST1_LPR2026_ACT07_G03_Informe_v1.0.0.pdf 	<-- Informe APA v7
-│   └── CHANGELOG.md                <-- Historial de versiones del software
+│   ├── CHANGELOG.md                <-- Historial de versiones del software
 │   └── manuales                
 │   	├── manual_programador_v1.0.0.pdf
 │   	├── manual_programador_v1.0.0.md
 │   	├── manual_usuario_v1.0.0.pdf
-│   	├── manual_usuario_v1.0.0.md
+│   	└──  manual_usuario_v1.0.0.md
 ├── src/                            <-- Código fuente compilable
 │   ├── main.cpp                    <-- Programa principal del juego en C++
 │   └── historial_partidas.txt     <-- Archivo de persistencia generado
